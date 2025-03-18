@@ -23,7 +23,6 @@ This code repository is dedicated to the implementation of **Robust Tensor Compl
 - Demonstration for tensor completion problem
 
 ```matlab
-% APT
 demo_tensor_completion
 ```
 
