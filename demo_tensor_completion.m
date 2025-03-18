@@ -29,7 +29,7 @@ fid = fopen("tensor_completion",'a');
 
 itermax = 10;
 for iter = 1:itermax
-    fprintf(fid,'-------------------------iteration:%d-------------------------\n',iteration);
+    fprintf(fid,'-------------------------iteration:%d-------------------------\n',iter);
     for e = 1:length(p_f)
      pf = p_f(e);
      fprintf(fid,'======================================\n');
